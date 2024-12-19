@@ -1,0 +1,1 @@
+        let parrafo = document.getElementsByTagName("p")[0].innerHTML;        parrafo.split(";");        json.Stringfy(parrafo);
